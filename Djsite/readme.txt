@@ -1,0 +1,1 @@
+On this project I am learning basic Django commands.
