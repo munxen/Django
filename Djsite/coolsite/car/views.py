@@ -3,7 +3,7 @@ from django.http import HttpResponse, HttpResponseNotFound, Http404
 
 from .models  import *
 
-menu = ["О сайте", "Добавить статью", "Обратная связь", "Войти"]
+menu = ["О сайте", "Партнёрам", "Обратная связь", "Войти"]
 
 # Create your views here.
 def index(request):
